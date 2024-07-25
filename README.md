@@ -4,7 +4,7 @@
 ## Major Projects
 
 | S.No | Major Project | Live Link | GitHub Link | 
-|---|---|---|---|---|
+|---|---|---|---|
 | 01 | Airbnb Project | https://airbnb-412m.onrender.com/listings | https://github.com/aparna22-13/AIRBNB.git |
 
 ## Mini Major Projects
