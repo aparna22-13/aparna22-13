@@ -5,13 +5,13 @@
 
 | S.No | Major Project | Live Link | GitHub Link | 
 |---|---|---|---|
-| 01 | Airbnb Project | https://airbnb-412m.onrender.com/listings | https://github.com/aparna22-13/AIRBNB.git |
+| 01 | Airbnb Project | [link](https://airbnb-412m.onrender.com/listings) | [repository](https://github.com/aparna22-13/AIRBNB.git) |
 
 ## Mini Major Projects
 
 | S.No | Mini Major Project | Live Link | GitHub Link |
 |---|---|---|---|
-| 01 | SimonSay GAME | https://aparna22-13.github.io/SimonSay_GAME/ | https://github.com/aparna22-13/SimonSay_GAME.git |
+| 01 | SimonSay GAME | [link](https://aparna22-13.github.io/SimonSay_GAME/) | [repository](https://github.com/aparna22-13/SimonSay_GAME.git) |
 
 
 
