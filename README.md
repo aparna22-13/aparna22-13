@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @aparna22-13(Aparna)
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Web development & Java language.
+
+
 # All Projects
 
 ## Major Projects
@@ -12,7 +16,6 @@
 | S.No | Mini Major Project | Live Link | GitHub Link |
 |---|---|---|---|
 | 01 | SimonSay GAME | [link](https://aparna22-13.github.io/SimonSay_GAME/) | [repository](https://github.com/aparna22-13/SimonSay_GAME.git) |
-
 
 
 <!---
