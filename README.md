@@ -9,7 +9,7 @@
 
 | S.No | Major Project | Live Link | GitHub Link | 
 |---|---|---|---|
-| 01 | Airbnb Project | [link](https://airbnb-412m.onrender.com/listings) | [repository](https://github.com/aparna22-13/AIRBNB.git) |
+| 01 | Travel Nest| [link](https://airbnb-412m.onrender.com/listings) | [repository](https://github.com/aparna22-13/AIRBNB.git) |
 
 ## Mini Major Projects
 
