@@ -9,7 +9,7 @@ const parser = new Parser();
   const content = `<!--START_TECH_TRENDS-->\n${trends.join("\n")}\n<!--END_TECH_TRENDS-->`;
 
   const readme = fs.readFileSync("README.md", "utf8");
-  const updated = readme.replace(/<!--START_TECH_TRENDS-->[\\s\\S]*<!--END_TECH_TRENDS-->/, content);
+  const updated = readme.replace(/<!--START_TECH_TRENDS-->[\s\S]*<!--END_TECH_TRENDS-->/, content);
 
   fs.writeFileSync("README.md", updated);
 })();
