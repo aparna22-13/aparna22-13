@@ -1,16 +1,22 @@
 <!-- APARNA ANAND - ADVANCED GITHUB README -->
 
-## :wave: Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ :wave:
-<!--
-**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+## :wave: Hey everyone, I'm Aparna Anand :wave:
 
-<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/aparna22-13/aparna22-13/blob/main/MishManners%20Room%20animated.gif)  
+![mishmanners ](https://github.com/aparna22-13/aparna22-13/blob/main/MishManners%20Room%20animated.gif)  
 
-:wave: Hi, I'm a multi-talented personality in the tech and gaming communities. I've worked in the technology space for the last decade and I have a tonne of experience in developer advocacy 🥑, community management, marketing, and content creation. I love creating fun, engaging and authentic content. I’ve written over 1700 articles, delivered over 380 talks, including more than ten keynotes, and produced over 200 videos on technical topics, the importance of collaboration, community building, and the future of work. I'm also a respected leader in the hackathon community, having won, organised, and mentored at numerous events. I'm a successful entrepreneur and founder, having co-founded several companies – including an artificial intelligence company. You'll often catch me at an event, speaking on stage, or on a live stream!
+:wave: 💻 Full-Stack Developer | 🌐 Web Wizard | 🚀 Cloud Curious | 🎮 Basketball Buff
 
-Previously known as Michelle "MishManners" Mannering, I'm now Michelle "MishManners" Duke after getting married in December 2023. You might even catch my player 2 on a live stream or at an event with me :heart:.
+I’m a builder who loves turning ideas into interactive, impactful web apps.
+🔧 Currently mastering:
+- MERN Stack, Firebase, Cloudinary
+- CI/CD, Docker, Jenkins, AWS
+- Java, Python, and solving 300+ DSA problems (and counting!)
+
+🌟 I believe in **“Build → Break → Rebuild Better”**  
+and I never say no to a cool tech challenge (or a game of basketball 🏀).
+
+:heart:.
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
@@ -31,14 +37,7 @@ Previously known as Michelle "MishManners" Mannering, I'm now Michelle "MishMann
 
 ---
 
-## 🚀 My Projects
 
-| Name            | Stack                     | Demo                                                      |
-| --------------- | ------------------------- | --------------------------------------------------------- |
-| **Travel Nest** | Node.js, MongoDB, EJS     | [🌐 Live Site](https://airbnb-412m.onrender.com/listings) |
-| **Netflix GPT** | React, Firebase, Tailwind | [🌐 Live Site](https://netflix-gpt-ten-woad.vercel.app/)  |
-
----
 
 ## 🌟 Skills Snapshot
 
