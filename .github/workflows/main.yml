@@ -1,22 +1,21 @@
 name: Generate Datas
 
 on:
-  schedule: # run every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate and Deploy Snake Animation
     runs-on: ubuntu-latest
     steps:
       # Generate Snake SVG
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: aparna22-13
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
           color_snake: "#FF6EC7"
           color_dots: "#00FFE5,#00BFFF,#8A2BE2,#FF69B4,#FFD700"
 
