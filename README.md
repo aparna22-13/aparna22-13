@@ -85,18 +85,17 @@
   </a>
 </p>
 
+<!-- 📊 Skill Radar -->
 ## 📊 Skill Radar
 
 <p align="center">
-  <img src="https://github.com/aparna22-13/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-![Snake animation](https://github.com/aparna22-13/aparna22-13/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<!-- 📊 Skill Radar -->
-## 📊 Skill Radar
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
