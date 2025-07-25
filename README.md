@@ -4,7 +4,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&width=200&text=Hello!%20Welcome%20to%20My%20World%20of%20Code!&fontSize=45&animation=fadeIn"/>
 </div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aparna+Anand;Software+Developer;Cloud+Enthusiast;Open+Source+Lover" />
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- 👩‍💻 Animated Workspace -->
@@ -90,12 +92,7 @@
   <a href="https://twitter.com/@anand_apar56888"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/></a>
   <a href="https://www.instagram.com/aaparna_298/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
 </p>
-<!-- 📰 Trending Tech -->
-## 🚀 Trending in Tech (Auto-updated)
 
-<!--START_TECH_TRENDS-->
-📰 Loading latest tech headlines...
-<!--END_TECH_TRENDS-->
 <!-- 🔧 Skills and Visual Section -->
 <h2>🎯 Currently Learning</h2>
 <p>
@@ -103,20 +100,6 @@
   <img src="https://img.shields.io/badge/LeetCode-🔥%20Daily-orange?style=flat-square&logo=leetcode"/>
   <img src="https://img.shields.io/badge/AWS%20Cloud-Studying-yellow?style=flat-square&logo=amazon-aws"/>
 </p>
-<h2>📌 Dev Quote</h2>
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
-</p>
-
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph snake animation" />
-</p>
-## 🚀 Trending GitHub Repos
-
-[![GitHub Trending](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js)
-[![GitHub Trending](https://img.shields.io/github/stars/facebook/react?style=social)](https://github.com/facebook/react)
-[![GitHub Trending](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)](https://github.com/tailwindlabs/tailwindcss)
 
 <!--START_TECH_TRENDS-->
 📰 [TechCrunch](https://techcrunch.com) • [Hacker News](https://news.ycombinator.com) • [Dev.to](https://dev.to)
