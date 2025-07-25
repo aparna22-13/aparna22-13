@@ -25,10 +25,12 @@ jobs:
         run: |
           node .github/scripts/fetch-trends.js
 
-      - name: Commit & Push changes
-        run: |
+     - name: Commit and push if changed
+      run: |
           git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git commit -m "⚡ Auto-update tech trends"
-          git push
+          git config --global user.email 'actions@github.com'
+          git pull origin main --rebase
+          git add .
+          git commit -m "⚡ Auto-update tech trends" || echo "No changes to commit"
+          git push origin main
+
