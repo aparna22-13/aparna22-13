@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch Tech Trends
         run: |
-          node scripts/fetch-trends.js
+          node .github/scripts/fetch-trends.js
 
       - name: Commit & Push changes
         run: |
