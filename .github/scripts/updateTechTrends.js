@@ -1,15 +1,30 @@
-const fs = require("fs");
-const Parser = require("rss-parser");
-const parser = new Parser();
+const fs = require('fs');
+const axios = require('axios');
 
-(async () => {
-  const feed = await parser.parseURL("https://dev.to/feed");
+const sources = [
+  { name: 'TechCrunch', url: 'https://techcrunch.com' },
+  { name: 'Hacker News', url: 'https://news.ycombinator.com' },
+  { name: 'Dev.to', url: 'https://dev.to' },
+];
 
-  const trends = feed.items.slice(0, 5).map(item => `- [${item.title}](${item.link})`);
-  const content = `<!--START_TECH_TRENDS-->\n${trends.join("\n")}\n<!--END_TECH_TRENDS-->`;
+const generateMarkdown = () => {
+  const links = sources
+    .map(source => `🔗 [${source.name}](${source.url})`)
+    .join('\n');
 
-  const readme = fs.readFileSync("README.md", "utf8");
-  const updated = readme.replace(/<!--START_TECH_TRENDS-->[\s\S]*<!--END_TECH_TRENDS-->/, content);
+  return `<!--START_TECH_TRENDS-->\n${links}\n<!--END_TECH_TRENDS-->`;
+};
 
-  fs.writeFileSync("README.md", updated);
-})();
+const updateReadme = () => {
+  const readme = fs.readFileSync('README.md', 'utf8');
+
+  const updated = readme.replace(
+    /<!--START_TECH_TRENDS-->[\s\S]*<!--END_TECH_TRENDS-->/,
+    generateMarkdown()
+  );
+
+  fs.writeFileSync('README.md', updated);
+  console.log('✅ README updated with latest tech links');
+};
+
+updateReadme();
