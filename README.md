@@ -101,11 +101,21 @@
   <img src="https://img.shields.io/badge/AWS%20Cloud-Studying-yellow?style=flat-square&logo=amazon-aws"/>
 </p>
 
+
+<h2 align="center">🗞️ <u>Trending Tech Headlines</u></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TechCrunch-0a0a0a?style=for-the-badge&logo=TechCrunch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerNews-ff6600?style=for-the-badge&logo=YCombinator&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</p>
+
 <!--START_TECH_TRENDS-->
-🔗 [TechCrunch](https://techcrunch.com)
-🔗 [Hacker News](https://news.ycombinator.com)
-🔗 [Dev.to](https://dev.to)
+📰 Loading latest tech headlines...
 <!--END_TECH_TRENDS-->
+
+
 
         
 
