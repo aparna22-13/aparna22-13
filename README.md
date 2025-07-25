@@ -11,12 +11,12 @@
 
 <!-- 👩‍💻 Animated Workspace -->
 <p align="center">
-  <img src="https://github.com/aparna22-13/aparna22-13/blob/main/MishManners%20Room%20animated.gif" width="100%"/>
+  <img src="https://github.com/aparna22-13/aparna22-13/blob/main/MishManners%20Room%20animated.gif" width="75%"/>
 </p>
 
 <!-- 👋 Personal Tagline Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20I'm%20Aparna%20Anand!&fontSize=40&fontAlignY=40&height=200&animation=fadeIn&desc=Software%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open%20Source%20Lover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&text=Hey,%20I'm%20Aparna%20Anand!&fontSize=40&fontAlignY=40&height=200&animation=fadeIn&desc=Software%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open%20Source%20Lover" />
 </div>
 
 
@@ -92,16 +92,16 @@
   <a href="https://twitter.com/@anand_apar56888"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/></a>
   <a href="https://www.instagram.com/aaparna_298/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <!-- 🔧 Skills and Visual Section -->
 <h2>🎯 Currently Learning</h2>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-In%20Progress-blue?style=flat-square&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/LeetCode-🔥%20Daily-orange?style=flat-square&logo=leetcode"/>
   <img src="https://img.shields.io/badge/AWS%20Cloud-Studying-yellow?style=flat-square&logo=amazon-aws"/>
 </p>
-
-<h2 align="center">🗞️ <u>Trending Tech Headlines</u></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<h2>🗞️ <u>Trending Tech Headlines</u></h2>
 
 <p align="center">
   <a href="https://techcrunch.com" target="_blank">
@@ -127,6 +127,30 @@
 🔗 [Dev.to](https://dev.to)
 -->
 <!--END_TECH_TRENDS-->
+
+<!--<div align="center">
+
+### 🎉 Thanks for visiting! Let's build something amazing together! 🎉
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD&center=true&vCenter=true&width=600&lines=Happy+Coding!+💻;Keep+Learning!+📚;Stay+Awesome!+⭐;Build+The+Future!+🚀" alt="Footer Typing SVG" />
+
+</div> -->
+<!-- 🌸 Thank You Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<div align="center">
+
+  <h2>✨ Thank you for scrolling all the way! ✨</h2>
+  <p><em>"Code with passion, deploy with purpose, and grow without limits."</em></p>
+
+  <!-- Typing animation with smooth motivational lines -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F260&vCenter=true&width=500&height=50&lines=Thanks+for+visiting+my+GitHub!+🌟;Let's+connect+and+collaborate!+🤝;Keep+coding,+keep+growing!+🚀" alt="Typing SVG" />
+
+  <!-- Elegant waving footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+
 
 
 
