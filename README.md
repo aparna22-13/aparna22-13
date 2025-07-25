@@ -101,15 +101,24 @@
   <img src="https://img.shields.io/badge/AWS%20Cloud-Studying-yellow?style=flat-square&logo=amazon-aws"/>
 </p>
 
-
 <h2 align="center">🗞️ <u>Trending Tech Headlines</u></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TechCrunch-0a0a0a?style=for-the-badge&logo=TechCrunch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerNews-ff6600?style=for-the-badge&logo=YCombinator&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href="https://techcrunch.com" target="_blank">
+    <img src="https://img.shields.io/badge/TechCrunch-0a0a0a?style=for-the-badge&logo=TechCrunch&logoColor=white" />
+  </a>
+  <a href="https://news.ycombinator.com" target="_blank">
+    <img src="https://img.shields.io/badge/HackerNews-ff6600?style=for-the-badge&logo=YCombinator&logoColor=white" />
+  </a>
+  <a href="https://dev.to" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </p>
+
+
 
 <!--START_TECH_TRENDS-->
 🔗 [TechCrunch](https://techcrunch.com)
