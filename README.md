@@ -102,13 +102,9 @@
 </p>
 
 <!--START_TECH_TRENDS-->
-📰 [TechCrunch](https://techcrunch.com) • [Hacker News](https://news.ycombinator.com) • [Dev.to](https://dev.to)
-<!--END_TECH_TRENDS-->
-
-
-
-<!--START_TECH_TRENDS-->
-📰 Loading latest tech headlines...
+🔗 [TechCrunch](https://techcrunch.com)
+🔗 [Hacker News](https://news.ycombinator.com)
+🔗 [Dev.to](https://dev.to)
 <!--END_TECH_TRENDS-->
 
         
