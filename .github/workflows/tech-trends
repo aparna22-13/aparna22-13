@@ -1,33 +1,33 @@
-name: 📰 Update Tech Trends in README
+name: 🔁 Update Tech Trends in README
 
 on:
   schedule:
-    - cron: "0 */48 * * *"  # every 2 days
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
 
 jobs:
-  update-tech-trends:
+  update-trends:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: ⬇️ Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: ⚙️ Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: 18
 
-      - name: Install Dependencies
-        run: npm install rss-parser
+      - name: 📦 Install dependencies
+        run: npm install axios
 
-      - name: Run Script
+      - name: 📰 Fetch Tech Headlines and Update README
         run: |
-          node .github/scripts/updateTechTrends.js
+          node .github/scripts/update-trends.js
 
-      - name: Commit README Changes
+      - name: 💾 Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "🔁 Auto-update tech trends"
+          git commit -m "🔁 Update tech trends"
           git push
