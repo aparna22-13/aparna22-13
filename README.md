@@ -1,4 +1,4 @@
-<!-- APARNA ANAND - ADVANCED GITHUB README --> https://c4.wallpaperflare.com/wallpaper/743/730/570/anime-code-insect-wallpaper-preview.jpg
+<!-- APARNA ANAND - ADVANCED GITHUB README --> 
 
 <!-- 🌟 Intro Banner -->
 <div align="center">
@@ -101,40 +101,7 @@
 📰 Loading latest tech headlines...
 <!--END_TECH_TRENDS-->
 <!-- 🔧 Skills and Visual Section -->
-<table>
-  <tr>
-    <!-- Left Column -->
-    <td width="55%" valign="top">
-      <h3>🚀 Mastered Programming Languages</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,mysql&theme=dark" height="40"/>
-      </p>
-      <hr width="90%"/>
 
-      <h3>⚙️ Frameworks & Libraries</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,express,django,fastapi,spring,graphql,mongodb&theme=dark" height="40"/>
-      </p>
-      <hr width="90%"/>
-
-      <h3>☁️ Cloud & DevOps</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git&theme=dark" height="40"/>
-      </p>
-      <hr width="90%"/>
-
-      <h3>🧰 Additional Concepts</h3>
-      <p>
-        🔐 Authentication & Authorization ⚙️ CI/CD 📐 OOPs ✅ Unit Testing 🔄 REST APIs 🧩 Agile Development
-      </p>
-    </td>
-
-    <!-- Right Column -->
-    <td width="45%" align="center">
-      <img src="https://c4.wallpaperflare.com/wallpaper/743/730/570/anime-code-insect-wallpaper-preview.jpg" width="90%" />
-    </td>
-  </tr>
-</table>
 
         
 
