@@ -17,16 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20I'm%20Aparna%20Anand!&fontSize=40&fontAlignY=40&height=200&animation=fadeIn&desc=Software%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Open%20Source%20Lover" />
 </div>
 
-<!-- 💬 Let's Connect -->
-<h1 align="center">Let's Connect and have a Chat! 💬</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aparna132/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
-  <a href="https://twitter.com/@anand_apar56888"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/></a>
-  <a href="https://www.instagram.com/aaparna_298/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
-</p>
+
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
@@ -58,11 +49,6 @@
 </p>
 <hr width="60%"/>
 
-### 🧰 Additional Concepts
-<p>
-  🔐 Authentication & Authorization ⚙️ CI/CD 📐 OOPs ✅ Unit Testing 🔄 REST APIs 🧩 Agile Development
-</p>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -70,9 +56,9 @@
 <!-- 📊 GitHub Stats -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=aparna22-13&theme=radical&show_icons=true" />
-  
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aparna22-13&theme=radical" />
+  <img height="150" width="370" src="https://github-readme-stats.vercel.app/api?username=aparna22-13&theme=radical&show_icons=true" />
+  <img height="150" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna22-13&hide_progress=true&theme=radical" />
+  <img height="150" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=aparna22-13&theme=radical" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -94,6 +80,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
+<!-- 💬 Let's Connect -->
+<h1 align="center">Let's Connect and have a Chat! 💬</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aparna132/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
+  <a href="https://twitter.com/@anand_apar56888"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/></a>
+  <a href="https://www.instagram.com/aaparna_298/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/></a>
+</p>
 <!-- 📰 Trending Tech -->
 ## 🚀 Trending in Tech (Auto-updated)
 
@@ -101,6 +97,32 @@
 📰 Loading latest tech headlines...
 <!--END_TECH_TRENDS-->
 <!-- 🔧 Skills and Visual Section -->
+<h2>🎯 Currently Learning</h2>
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-In%20Progress-blue?style=flat-square&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/LeetCode-🔥%20Daily-orange?style=flat-square&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud-Studying-yellow?style=flat-square&logo=amazon-aws"/>
+</p>
+<h2>📌 Dev Quote</h2>
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
+</p>
+
+## 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph snake animation" />
+</p>
+## 🚀 Trending GitHub Repos
+
+[![GitHub Trending](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js)
+[![GitHub Trending](https://img.shields.io/github/stars/facebook/react?style=social)](https://github.com/facebook/react)
+[![GitHub Trending](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social)](https://github.com/tailwindlabs/tailwindcss)
+
+<!--START_TECH_TRENDS-->
+📰 [TechCrunch](https://techcrunch.com) • [Hacker News](https://news.ycombinator.com) • [Dev.to](https://dev.to)
+<!--END_TECH_TRENDS-->
+
+
 
 
         
