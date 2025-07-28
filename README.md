@@ -59,7 +59,8 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img height="150" width="370" src="https://github-readme-stats.vercel.app/api?username=aparna22-13&theme=radical&show_icons=true" />
-  <img height="150" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna22-13&hide_progress=true&theme=radical" />
+  <img height="150" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna22-13&hide_progress=true&theme=radical&hide_border=false&show_icons=true" alt="Top Langs" />
+
   <img height="150" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=aparna22-13&theme=radical" />
 </p>
 
@@ -121,9 +122,11 @@
 
 
 <!--START_TECH_TRENDS-->
+<!--
 🔗 [TechCrunch](https://techcrunch.com)
 🔗 [Hacker News](https://news.ycombinator.com)
 🔗 [Dev.to](https://dev.to)
+-->
 <!--END_TECH_TRENDS-->
 
 <!--<div align="center">
