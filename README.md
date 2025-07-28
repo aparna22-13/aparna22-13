@@ -75,10 +75,12 @@
 </p>
 
 <!-- 📊 Skill Radar -->
+
+
 ## 📊 Skill Radar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/aparna22-13/aparna22-13/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg" alt="GitHub contribution grid snake animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
