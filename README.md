@@ -124,11 +124,9 @@
 
 
 <!--START_TECH_TRENDS-->
-<!--
 🔗 [TechCrunch](https://techcrunch.com)
 🔗 [Hacker News](https://news.ycombinator.com)
 🔗 [Dev.to](https://dev.to)
--->
 <!--END_TECH_TRENDS-->
 
 <!--<div align="center">
